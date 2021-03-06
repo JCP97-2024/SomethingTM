@@ -6,7 +6,7 @@ Johnathan Pepling
 Elijah Morrison
 Humeyra Kacar
 
-Our program takes the users age and provides an appropriate response. 
+Our program takes the users age and provides whether they are eligible for voting or not.
 
 TO USE THIS CODE
 1. copy the Part1.ipynb file into the directory you wish to run it from.
